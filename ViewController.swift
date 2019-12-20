@@ -13,12 +13,12 @@ public class ViewController: UIViewController {
     override public func viewDidLoad()
     {
         var bo: Bool;//boolean variable forming
-        
         super.viewDidLoad();
         
         bo = true;//set boolean variable true forming
         printStr(bo);//call printStr controlling and sustaining
     }
+    
     //structs forming
     struct textField
     {
